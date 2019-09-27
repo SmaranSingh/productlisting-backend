@@ -1,5 +1,7 @@
 # README
 
+### Run the app at port `4000` or change the `REACT_APP_BACKEND_URL` in the frontend app
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
